@@ -21,7 +21,7 @@ message.member.voiceChannel.join()
 
 } else { 
 
-message.reply('** پێویستە تۆ لە ڤۆیسەکە بیت **'); 
+message.reply('** **'); 
 
 } 
 
@@ -36,9 +36,9 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(` دانرا تۆش ڕیکلامەکە بکە lera Link Dane`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
+  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/HF9ZMmJHyK `) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
     
-  client.channels.get("id Channel ").send(
+  client.channels.get("896414745446469713 ").send(
 `> By: <@${message.author.id}> ✅ 
 ${message.content}`)
 }
@@ -57,4 +57,4 @@ client.user.setGame(`Monty404 is here`)
 
 
 
-client.login("");// Token Lera Dane
+client.login("NzYzMTUzMzk3MDA4MzAyMTIz.X3zj_A.lr0X-090dU4uH41CrE8JLSwp85M");// Token Lera Dane
