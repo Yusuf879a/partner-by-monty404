@@ -57,4 +57,4 @@ client.user.setGame(`Monty404 is here`)
 
 
 
-client.login("");// Token Lera Dane
+client.login("NzYzMTUzMzk3MDA4MzAyMTIz.X3zj_A.SON4IsJi-ZxiEKVOyIFzI5tfqLE");// Token Lera Dane
